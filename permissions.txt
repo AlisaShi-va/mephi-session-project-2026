@@ -1,0 +1,8 @@
+  File: /data/mephi-web
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,17      	Inodes: 2          Links: 2
+Access: (2775/drwxrwsr-x)  Uid: ( 1001/mephi-admin)   Gid: ( 1002/mephi-devs)
+Access: 2026-06-14 18:50:00.000000000 +0300
+Modify: 2026-06-14 18:50:14.000000000 +0300
+Change: 2026-06-14 18:50:14.000000000 +0300
+ Birth: 2026-06-14 18:48:32.000000000 +0300
